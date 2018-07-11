@@ -1,7 +1,7 @@
 Description
 ===========
     The author has created this repository to make his documents or 
-publications available to the public under the included Creative Common
+publications available to the public under the included Creative Commons
 License (see LICENCE.txt) and copyright notices (see NOTICE.txt)
 
 
@@ -17,5 +17,5 @@ Date Created: July 1, 2018 (Canada National Day)
 
 Requirements
 ============
-    All the licensees must comply with the included Creative Common License
+    All the licensees must comply with the included Creative Commons License
 (see LICENSE.txt)
